@@ -1,0 +1,38 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_3/sim/design_1_processing_system7_0_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_processing_system7_0_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/ipshared/76c7/hdl/axis_multiplier_v1_0_S00_AXIS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axis_multiplier_v1_0_S00_AXIS
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/ipshared/76c7/hdl/axis_multiplier_v1_0_M00_AXIS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axis_multiplier_v1_0_M00_AXIS
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/ipshared/76c7/hdl/axis_multiplier_v1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axis_multiplier_v1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.gen/sources_1/bd/design_1/ipshared/76c7/hdl/multiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplier
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.gen/sources_1/bd/design_1/ipshared/76c7/hdl/sync_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sync_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.gen/sources_1/bd/design_1/ipshared/76c7/hdl/karatsuba_mul_rec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module karatsuba_mul_rec
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/ip/design_1_axis_multiplier_0_1/sim/design_1_axis_multiplier_0_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_axis_multiplier_0_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/ip/design_1_auto_pc_2/sim/design_1_auto_pc_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/sim/design_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-311] analyzing module design_1_axi_mem_intercon_1
+INFO: [VRFC 10-311] analyzing module design_1_axi_mem_intercon_1_0
+INFO: [VRFC 10-311] analyzing module design_1_ps7_0_axi_periph_0
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_1FI55ZU
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_7HNO1D
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_UYSKKA
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.gen/sources_1/bd/design_1/hdl/design_1_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/ip/design_1_axi_dma_0_0/sim/design_1_axi_dma_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_axi_dma_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/tudor/Documents/tudor_verilog_attempts/karatsuba/karatsuba.ip_user_files/bd/design_1/ip/design_1_rst_ps7_0_100M_1/sim/design_1_rst_ps7_0_100M_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_rst_ps7_0_100M_1'
